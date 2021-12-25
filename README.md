@@ -34,19 +34,18 @@ mengupdate data kasir
 
 
 TRANSAKSI
+![baru](https://user-images.githubusercontent.com/45691711/147385830-a933bb96-5f90-4c34-a78a-723556a0e0fb.png)
 
-![transaksiiiiii](https://user-images.githubusercontent.com/45691711/146666972-421f1b1b-34f6-4202-8667-a19f274cfa22.png)
+insert transaksi
+![baru1](https://user-images.githubusercontent.com/45691711/147385881-e6ff1ae8-ef47-4c56-8ab4-95d3f75721db.png)
+![baru2](https://user-images.githubusercontent.com/45691711/147385885-d8ff4c60-e82b-4cb1-b814-8b60b6ad26aa.png)
 
-![transaksi1](https://user-images.githubusercontent.com/45691711/146666902-693946e1-8b72-4b16-82e1-e7ea739ae9ce.png)
-![transaksi2](https://user-images.githubusercontent.com/45691711/146666903-05eb09f6-37e1-4b79-b8b9-4805316f4550.png)
-![transaksi3](https://user-images.githubusercontent.com/45691711/146666906-51cbdfde-f982-47f0-97a8-3d0b86ea9908.png)
 
 update transaksi
-![transaksi](https://user-images.githubusercontent.com/45691711/146666944-9ac81815-1bcd-49d3-971a-d0ee3e4b6c81.png)
-![transaksi](https://user-images.githubusercontent.com/45691711/146666946-ec6d3001-99e4-4403-a916-81bee560f56f.png)
-![transaksi](https://user-images.githubusercontent.com/45691711/146666948-b58db3ec-6de2-4b23-a53c-4d70be48de7a.png)
+![baru3](https://user-images.githubusercontent.com/45691711/147385921-69812854-7aa0-45fa-8281-b6d567b55b3d.png)
+
+![baru4](https://user-images.githubusercontent.com/45691711/147385926-65606dec-57d2-488a-9e8e-4db9a15edcdd.png)
 
 delete transaksi
-![delete](https://user-images.githubusercontent.com/45691711/146666956-facbeb8a-233c-4b89-86a9-1a7fa08a41f0.png)
-![delete2](https://user-images.githubusercontent.com/45691711/146666962-bb7ed171-61f7-42e1-89d3-22bdae39db4e.png)
-![delete3](https://user-images.githubusercontent.com/45691711/146666964-59a103ed-7a5b-4ef2-b401-b7d7fbf1427b.png)
+![delete4](https://user-images.githubusercontent.com/45691711/147385952-4008a72e-e8e9-47d4-80ca-4166bb4486f2.png)
+![delete5](https://user-images.githubusercontent.com/45691711/147385958-17cb1426-4b64-42b2-85d1-f56b3df1c029.png)
