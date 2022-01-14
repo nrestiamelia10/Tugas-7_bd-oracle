@@ -49,3 +49,9 @@ update transaksi
 delete transaksi
 ![delete4](https://user-images.githubusercontent.com/45691711/147385952-4008a72e-e8e9-47d4-80ca-4166bb4486f2.png)
 ![delete5](https://user-images.githubusercontent.com/45691711/147385958-17cb1426-4b64-42b2-85d1-f56b3df1c029.png)
+
+
+LAPORAN
+![laporan](https://user-images.githubusercontent.com/45691711/149510040-0daf06b4-d884-431a-9510-5e1f772e2514.png)
+![print](https://user-images.githubusercontent.com/45691711/149510065-6a7b3d9f-6b20-48cc-b6f3-d1a3afebdbdd.png)
+
